@@ -9,5 +9,7 @@ cd /path/to/Linux-folder-protector
 #
 chmod +x setup.sh
 #
-./setup.sh
+sudo ./setup.sh
 #
+
+then, after that,
