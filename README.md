@@ -12,4 +12,4 @@ chmod +x setup.sh
 sudo ./setup.sh
 #
 
-then, after that, ./lock.sh [path to the directory you want deleted]
+then, after that, ./lock.sh [path to the directory you want locked] will lock it
